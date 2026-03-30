@@ -81,7 +81,10 @@ pip install numpy scipy
 ▶️ How to Run
 With the virtual environment activated and the .dat files in the root folder, simply execute the main script:
 
+Warning: Remember to get to the correct folder you want, example with 60°C:
 ```bash
+cd .\60°C\
+cd .\Estimacao\
 python principal.py
 ```
 
