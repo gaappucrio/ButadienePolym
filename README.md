@@ -83,8 +83,8 @@ With the virtual environment activated and the .dat files in the root folder, si
 
 Warning: Remember to get to the correct folder you want, example with 60°C:
 ```bash
-cd .\60°C\
-cd .\Estimacao\
+cd 60°C
+cd Estimacao
 python principal.py
 ```
 
