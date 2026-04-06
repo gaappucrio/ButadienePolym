@@ -73,6 +73,10 @@ python -m venv .venv
 .venv\Scripts\activate
 # On macOS/Linux:
 source .venv/bin/activate
+
+# Clone the repository
+git clone https://github.com/gaappucrio/ButadienePolym.git
+cd ButadienePolym
 ```
 3. Install Dependencies
 Install the required scientific libraries:
