@@ -1,4 +1,6 @@
 # Butadiene Polymerization Parameter Estimation ⚛️🐍
+Paper avaiable at: https://4spepublications.onlinelibrary.wiley.com/doi/full/10.1002/pen.25232
+
 
 This repository contains a modern, Python-based computational framework for estimating kinetic and thermodynamic parameters of a dynamic Butadiene Polymerization model. 
 
